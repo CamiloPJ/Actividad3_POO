@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30b82552-b110-4398-ba2d-b9530443809c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad3_POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosActividad3/Ejercicio18Cap3/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosActividad3/Ejercicio18Cap3/MainEjercicio18.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jLhMmUE74k6WxACb4icg6yKnqI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculadoraSalario.executor": "Run",
+    "Application.Ejercicio18.executor": "Run",
+    "Application.Ejercicio18Cap3.executor": "Run",
+    "Application.Ejercicio19.executor": "Run",
+    "Application.Ejercicio40.executor": "Run",
+    "Application.Ejercicio41.executor": "Run",
+    "Application.MainEjercicio10.executor": "Run",
+    "Application.MainEjercicio18.executor": "Run",
+    "Application.MainEjercicio19.executor": "Run",
+    "Application.MainEjercicio22.executor": "Run",
+    "Application.MainEjercicio23.executor": "Run",
+    "Application.MainEjercicio40.executor": "Run",
+    "Application.MainEjercicio7.executor": "Run",
+    "Application.MainPruebaFigura.executor": "Run",
+    "Application.nose.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "230",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "270",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/CApat/OneDrive/Documentos/Archivos de clases/Alura Oracle curso/Actividad3_POO/src/EjerciciosActividad3/Ejercicio18Cap3/Salario.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "two.files.diff.last.used.file": "C:/Users/CApat/OneDrive/Documentos/Archivos de clases/Alura Oracle curso/Actividad3_POO/src/EjerciciosActividad3/Ejercicio18Cap3/Salario.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b82552-b110-4398-ba2d-b9530443809c" name="Changes" comment="" />
+      <created>1721172221802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721172221802</updated>
+    </task>
+    <servers />
+  </component>
+</project>
